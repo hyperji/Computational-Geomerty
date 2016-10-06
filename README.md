@@ -1,2 +1,7 @@
 # Computational-Geomerty
-A programming task of Computational Geometry course.
+
+## It is a programming task of Computational Geometry course.
+
+## Including: B-Spline Curves, B-Spline Surface, Bezier curve.
+
+
